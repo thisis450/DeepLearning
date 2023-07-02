@@ -1,0 +1,2 @@
+learning_rate:0.01 epochnum:100 momentum:0.9 weight_decay:0.0001
+train_acc:97.852 test_acc:54.45 train_loss:0.07250944903725401 test_loss:2.783133500738989 train_top5_correct:99.976 test_top5_correct:79.84

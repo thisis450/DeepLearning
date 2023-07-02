@@ -1,0 +1,3 @@
+Flops:558022144.0 params:11307172.0
+learning_rate:0.05 epochnum:10 momentum:0.9 weight_decay:0.0001
+train_acc:63.986 test_acc:55.45 train_loss:1.2325962943494166 test_loss:1.624094987217384 train_top5_correct:90.43 test_top5_correct:84.3

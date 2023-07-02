@@ -1,0 +1,1 @@
+epoch:0 train_acc:3.6341117574735677 test_acc:3.205893000469932 train_loss:14.636 test_loss:21.38 train_top5_correct:38.876 test_top5_correct:50.88

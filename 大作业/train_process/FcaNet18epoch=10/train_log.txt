@@ -1,0 +1,10 @@
+epoch:0 train_acc:3.773458525957659 test_acc:3.3769062259529212 train_loss:11.512 test_loss:18.23 train_top5_correct:33.684 test_top5_correct:45.87
+epoch:1 train_acc:3.0943503294454513 test_acc:2.966315577301798 train_loss:23.004 test_loss:25.8 train_top5_correct:52.834 test_top5_correct:57.45
+epoch:2 train_acc:2.6198752298379495 test_acc:2.4868605197230473 train_loss:32.034 test_loss:35.82 train_top5_correct:64.546 test_top5_correct:67.42
+epoch:3 train_acc:2.2559613083939416 test_acc:2.2548924805242803 train_loss:39.628 test_loss:40.93 train_top5_correct:72.782 test_top5_correct:72.73
+epoch:4 train_acc:1.9900340006479522 test_acc:2.1272681498829322 train_loss:45.722 test_loss:42.79 train_top5_correct:77.818 test_top5_correct:75.77
+epoch:5 train_acc:1.7775512439820467 test_acc:1.920718425436865 train_loss:50.536 test_loss:48.72 train_top5_correct:81.69 test_top5_correct:78.82
+epoch:6 train_acc:1.609082224119045 test_acc:1.8471280034584334 train_loss:54.598 test_loss:50.07 train_top5_correct:84.722 test_top5_correct:80.58
+epoch:7 train_acc:1.463658218493547 test_acc:1.7096711155734485 train_loss:58.26 test_loss:53.21 train_top5_correct:87.094 test_top5_correct:83.01
+epoch:8 train_acc:1.34035830744697 test_acc:1.5756054467792753 train_loss:61.416 test_loss:56.05 train_top5_correct:89.014 test_top5_correct:84.88
+epoch:9 train_acc:1.2325962943494166 test_acc:1.624094987217384 train_loss:63.986 test_loss:55.45 train_top5_correct:90.43 test_top5_correct:84.3
